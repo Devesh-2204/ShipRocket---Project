@@ -13,8 +13,6 @@ Logic:
   - Risk score is recomputed at Gate 1 (order creation) and Gate 2 (pre-delivery)
   - Output: one row per order, with order-level AND customer-cumulative features
 
-Author: [Devesh Dwivedi]
-Project: Shiprocket
 =============================================================================
 """
 
